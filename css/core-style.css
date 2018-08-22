@@ -542,7 +542,7 @@ img {
 .is-sticky .main-header-area {
     width: 100%;
     z-index: 10000 !important;
-    background-color: #f2f4f8;
+    background-color: white;
     box-shadow: 0 0 30px 0px rgba(0, 0, 0, 0.2);
 }
 
