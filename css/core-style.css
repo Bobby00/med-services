@@ -336,7 +336,7 @@ img {
     background: #243eff;
     background: -webkit-linear-gradient(to right, #3de6fa, #243eff);
     background: -webkit-linear-gradient(left, #3de6fa, #243eff);
-    background: linear-gradient(to right, #3de6fa, #243eff);
+    background: linear-gradient(to right, #B53499, #243eff);
     border-radius: 0;
     bottom: 100px;
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
@@ -457,7 +457,7 @@ img {
     background: #243eff;
     background: -webkit-linear-gradient(to right, #3de6fa, #243eff);
     background: -webkit-linear-gradient(left, #3de6fa, #243eff);
-    background: linear-gradient(to right, #3de6fa, #243eff);
+    background: linear-gradient(to right, #CE26AD, #4679CA);
 }
 
 .gradient-background-overlay,
@@ -482,7 +482,7 @@ img {
     background: #243eff;
     background: -webkit-linear-gradient(to right, #3de6fa, #243eff);
     background: -webkit-linear-gradient(left, #3de6fa, #243eff);
-    background: linear-gradient(to right, #3de6fa, #243eff);
+    background: linear-gradient(to right, #B53499, #243eff);
     opacity: 0.8;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
@@ -577,7 +577,7 @@ img {
 .header-area .main-menu .nav-item.active .nav-link,
 .header-area .main-menu .nav-link:hover,
 .header-area .main-menu .nav-link:focus {
-    color: #2f88fd;
+    color: #CE26AD;
 }
 
 .dropdown-menu.show {
@@ -934,7 +934,7 @@ select.form-control:not([size]):not([multiple]) {
     left: 0;
     width: 8px;
     height: 8px;
-    background-color: #2f88fd;
+    background-color: #B53499;
     border-radius: 50%;
     content: '';
 }
