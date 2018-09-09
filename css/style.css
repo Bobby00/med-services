@@ -60,3 +60,8 @@
     opacity: 0;
   }
 }
+
+::-webkit-input-placeholder {
+  color: peachpuff;
+  font-size: 13px;
+}
