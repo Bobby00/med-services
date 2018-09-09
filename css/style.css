@@ -62,6 +62,33 @@
 }
 
 ::-webkit-input-placeholder {
-  color: peachpuff;
+  color: purple!important;
   font-size: 13px;
+  font-weight: 300!important;
+}
+
+.h2-header, {
+	font-size: 40px!important;
+}
+.h5-header {
+	font-size: 20px!important;
+}
+
+.talktous {
+	position: absolute; 
+	top: 65%; 
+	left: 45%; 
+	z-index: 1000;
+}
+@media screen and (max-width: 1540px) {
+  }
+  .talktous {
+  	left: 45%!important;
+  }
+}
+@media screen and (max-width: 768px) {
+  }
+  .talktous {
+  	left: 43%;
+  }
 }

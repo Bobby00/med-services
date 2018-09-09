@@ -1,6 +1,6 @@
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 992px) and (max-width: 1399px) {
     .hero-slides-content h2 {
-        font-size: 50px
+        font-size: 55px
     }
     .hero-area .owl-dots {
         width: 930px
@@ -69,6 +69,9 @@
     .gradient-background {
         display: none;
     }
+    .talktous {
+        left: 40%!important;
+    }
 
     .header-area {
         height: auto
@@ -112,7 +115,7 @@
         font-size: 10px
     }
     .hero-slides-content h2 {
-        font-size: 30px
+        font-size: 40px
     }
     .hero-area .owl-dots {
         width: 90%
