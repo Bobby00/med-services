@@ -53,7 +53,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #262626;
+    color: #4679CC;
     line-height: 1.2;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
@@ -61,10 +61,10 @@ h6 {
 
 p {
     color: #7f7e7e;
-    font-size: 14px;
+    font-size: 11px;
     line-height: 2;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 a:focus {
@@ -78,7 +78,7 @@ a:focus {
     transition: all 500ms ease 0s;
     text-decoration: none;
     outline: none;
-    font-size: 14px;
+    font-size: 16px;
     color: #5f5f5f;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
@@ -329,7 +329,7 @@ img {
 }
 
 .height-800 {
-    height: 800px !important;
+    height: 500px !important;
 }
 
 #scrollUp {
@@ -351,6 +351,7 @@ img {
 
 .section_padding_100 {
     padding: 100px 0;
+    background-color: white;
 }
 
 .section_padding_50 {
@@ -429,9 +430,9 @@ img {
 }
 
 .medica-btn.btn-3 {
-    color: #2f88fd;
+    color: #4777C9;
     background-color: #fff;
-    border-color: #2f88fd;
+    border-color: #4777C9;
 }
 
 .medica-btn.btn-4 {
@@ -449,7 +450,7 @@ img {
 .medica-btn:hover,
 .medica-btn:focus {
     color: #fff;
-    background-color: #2f88fd;
+    background-color: #4777C9;
     border-color: #2f88fd;
 }
 
@@ -528,7 +529,7 @@ img {
 
 .top-menu ul li a {
     display: block;
-    padding: 5px 10px;
+   
     color: #fff;
 }
 
@@ -578,6 +579,7 @@ img {
 .header-area .main-menu .nav-link:hover,
 .header-area .main-menu .nav-link:focus {
     color: #CE26AD;
+    font-weight: 900;
 }
 
 .dropdown-menu.show {
@@ -732,19 +734,25 @@ img {
 }
 
 .contact-meta p {
-    margin: 0;
+    margin-left: 10px;
     color: #6c6c6c;
 }
 
 .medica-emergency-card,
 .medica-doctors-card,
-.medica-appointment-card,
+
 .medica-department-card,
 .medica-contact-card,
 .medica-catagories-card,
 .latest-news-widget-area {
     padding: 50px 40px;
     background-color: #38c3fb;
+    width: 100%;
+}
+
+.medica-appointment-card {
+    padding: 50px 40px;
+    background-color: #C62BAF!important;
     width: 100%;
 }
 
@@ -810,7 +818,7 @@ img {
 .medica-appointment-card .form-control {
     width: 100%;
     height: 40px;
-    background-color: #2f88fd;
+    background-color: mintcream;
     border: none;
     border-radius: 0;
     font-size: 12px;
@@ -1069,12 +1077,12 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .single-cool-fact .counter-area h2 {
-    color: #fff;
+    
     font-size: 36px;
 }
 
 .single-cool-fact .counter-area h6 {
-    color: #fff;
+    font-weight: bolder;
     margin-bottom: 0;
 }
 

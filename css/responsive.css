@@ -66,6 +66,10 @@
         height: auto;
         padding: 10px 0
     }
+    .gradient-background {
+        display: none;
+    }
+
     .header-area {
         height: auto
     }
