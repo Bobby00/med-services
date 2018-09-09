@@ -146,7 +146,7 @@ img {
     -webkit-animation: 2000ms linear 0s normal none infinite running medica-load;
     animation: 2000ms linear 0s normal none infinite running medica-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #ffffff #ffffff #2f88fd;
+    border-color: #ffffff #ffffff purple;
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
